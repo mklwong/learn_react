@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mklwong/learn_react#readme",
   "dependencies": {
+    "ajv": "^6.8.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "uglifyjs-webpack-plugin": "^2.1.1",
